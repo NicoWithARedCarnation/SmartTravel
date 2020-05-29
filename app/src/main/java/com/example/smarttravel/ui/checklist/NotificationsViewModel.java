@@ -1,4 +1,4 @@
-package com.example.smarttravel.ui.notifications;
+package com.example.smarttravel.ui.checklist;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

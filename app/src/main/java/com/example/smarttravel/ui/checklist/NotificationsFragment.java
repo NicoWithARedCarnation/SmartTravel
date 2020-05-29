@@ -1,4 +1,4 @@
-package com.example.smarttravel.ui.notifications;
+package com.example.smarttravel.ui.checklist;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

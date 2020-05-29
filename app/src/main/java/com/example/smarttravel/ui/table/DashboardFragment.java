@@ -1,4 +1,4 @@
-package com.example.smarttravel.ui.dashboard;
+package com.example.smarttravel.ui.table;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

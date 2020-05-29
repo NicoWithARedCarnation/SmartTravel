@@ -6,20 +6,20 @@
     app:startDestination="@+id/navigation_home">
 
     <fragment
-        android:id="@+id/navigation_home"
-        android:name="com.example.smarttravel.ui.home.HomeFragment"
-        android:label="@string/title_home"
-        tools:layout="@layout/fragment_home" />
+        android:id="@+id/navigation_map"
+        android:name="com.example.smarttravel.ui.map.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.smarttravel.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
+        android:id="@+id/navigation_table"
+        android:name="com.example.smarttravel.ui.table.DashboardFragment"
+        android:label="@string/title_table"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.smarttravel.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
+        android:id="@+id/navigation_checklist"
+        android:name="com.example.smarttravel.ui.checklist.NotificationsFragment"
+        android:label="@string/title_checklist"
         tools:layout="@layout/fragment_notifications" />
 </navigation>
