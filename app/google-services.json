@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910720502248",
+    "firebase_url": "https://smarttravel-cace7.firebaseio.com",
+    "project_id": "smarttravel-cace7",
+    "storage_bucket": "smarttravel-cace7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910720502248:android:7b7c6da1d34e953e1ebc5d",
+        "android_client_info": {
+          "package_name": "com.example.smarttravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910720502248-tg9l4cqo8ij8gs49t6c6nutjdjsl6nqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarttravel",
+            "certificate_hash": "31e3bb35f879c2ca5a26709836c61c38fe76043a"
+          }
+        },
+        {
+          "client_id": "910720502248-mqsmu3m93o7q0o0ncv5uki5mc78hbq08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBA2no35mGQ41s6Vp5UqWl-1nHSbGMyrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910720502248-mqsmu3m93o7q0o0ncv5uki5mc78hbq08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
